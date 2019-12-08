@@ -1,6 +1,6 @@
 # Wallet App
 
-An app to control your entire financial flow.   
+An app to control your entire financial flow. [Download APK](https://github.com/lucascraveiropaes/wallet-app/releases/tag/v0.1)   
 Obs.: This app was developed and tested on the Android platform.
 
 ## Documentation
