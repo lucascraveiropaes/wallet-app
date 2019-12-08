@@ -3,11 +3,7 @@ import * as Utils   from "../helpers/utils";
 
 let initialState = {
     transactions: [],
-    user: {
-        name: "Lucas Craveiro Paes",
-        balance: 2500,
-        picture: "https://avatars2.githubusercontent.com/u/17598877?s=400&v=4"
-    }
+    user: null
 };
 
 export default function(state = initialState, action) {

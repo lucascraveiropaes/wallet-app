@@ -44,13 +44,6 @@ const typeData = {
     }
 }
 
-const data = {
-    amount: 15,
-    type: "in",
-    date: new Date(),
-    description: "AAAAAAAA"
-}
-
 class Home extends Component {
     constructor(props) {
         super(props);
